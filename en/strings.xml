@@ -25,9 +25,9 @@
     <string name="biliroaming_replace_story_video_summary">Replace the vertical mode with a normal video. Turn off the vertical mode button in the vertical mode setting in the Playback Settings.</string>
     <string name="biliroaming_search_category_title">Search Page</string>
     <string name="biliroaming_purify_search_types_title">Purify Search Page</string>
-    <string name="biliroaming_filter_search_type_title">Purify by Search Results</string>
+    <string name="biliroaming_filter_search_type_title">Filter by Search Results</string>
     <string name="biliroaming_filter_search_type_summary">Select the type of search results you want to block</string>
-    <string name="biliroaming_filter_search_keywords_title">Purify by Keywords</string>
+    <string name="biliroaming_filter_search_keywords_title">Filter by Keywords</string>
     <string name="biliroaming_search_area_title">Search Anime in Other Area</string>
     <string name="biliroaming_search_area_summary">Add anime search result in other area. Requires resolution server support</string>
     <string name="biliroaming_search_area_movie_title">Search Films in Other Area</string>
