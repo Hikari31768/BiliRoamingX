@@ -5,7 +5,7 @@
         <item>Default</item>
         <item>8K UHD</item>
         <item>Dolby Vision</item>
-        <item>HDR 10+</item>
+        <item>HDR</item>
         <item>4K UHD</item>
         <item>1080P 60fps</item>
         <item>1080P High Bitrate</item>
@@ -21,7 +21,7 @@
         <item>Follow full screen</item>
         <item>8K UHD</item>
         <item>Dolby Vision</item>
-        <item>HDR 10+</item>
+        <item>HDR</item>
         <item>4K UHD</item>
         <item>1080P 60fps</item>
         <item>1080P High Bitrate</item>
@@ -33,20 +33,20 @@
         <item>240P fast</item>
     </string-array>
     <string-array name="biliroaming_live_popup_entries">
-        <item>购物卡片</item>
-        <item>购物精选</item>
-        <item>关注提醒</item>
-        <item>直播预约</item>
-        <item>投喂支持</item>
-        <item>滚动横幅</item>
-        <item>电池任务</item>
-        <item>正在去买</item>
-        <item>礼物星球</item>
-        <item>主播帮玩</item>
-        <item>各种+1</item>
-        <item>心愿助力</item>
-        <item>直播效果打分</item>
-        <item>投票弹幕</item>
+        <item>Shopping Card</item>
+        <item>Featured Shopping</item>
+        <item>Subscribe Notice</item>
+        <item>Live Reserve</item>
+        <item>Recipient</item>
+        <item>Scrolling Bar</item>
+        <item>Battery Task</item>
+        <item>Buying</item>
+        <item>Gift Planet</item>
+        <item>Game Helpers</item>
+        <item>+1</item>
+        <item>Wish Support</item>
+        <item>Live Rating</item>
+        <item>Vote Danmu</item>
     </string-array>
     <string-array name="biliroaming_drawer_style_entries">
         <item>Default</item>
@@ -59,72 +59,72 @@
         <item>Trending</item>
         <item>Anime</item>
         <item>Film & TV</item>
-        <item>韩综</item>
+        <item>Korean Show</item>
         <item>Others</item>
     </string-array>
     <string-array name="biliroaming_home_recommend_entries">
-        <item>ADs</item>
+        <item>AD</item>
         <item>Game</item>
-        <item>轮播图</item>
-        <item>通知</item>
-        <item>文章</item>
-        <item>动态</item>
-        <item>竖屏视频</item>
+        <item>Scrolling</item>
+        <item>Notification</item>
+        <item>Article</item>
+        <item>Post</item>
+        <item>Portrait Video</item>
         <item>Live</item>
-        <item>内联视频</item>
-        <item>PGC 内容</item>
-        <item>课堂</item>
-        <item>漫画</item>
-        <item>无权查看视频</item>
-        <item>大卡</item>
-        <item>中卡</item>
-        <item>小卡</item>
+        <item>Inline Video</item>
+        <item>PGC</item>
+        <item>Courses</item>
+        <item>Comics</item>
+        <item>No Permission to Watch</item>
+        <item>Wide Card</item>
+        <item>Normal Card</item>
+        <item>Small Card</item>
     </string-array>
     <string-array name="biliroaming_home_recommend_summaries">
-        <item>包含轮播图的广告</item>
+        <item>Ads containing carousels</item>
         <item />
         <item />
-        <item>追番更新、活动提示</item>
+        <item>Anime updated, event notification</item>
         <item />
-        <item>一般带有图文标签</item>
-        <item />
-        <item />
-        <item />
-        <item>番剧、电影、电视剧、纪录片……</item>
+        <item>Usually with Image-text labels</item>
         <item />
         <item />
-        <item>例如充电专属</item>
-        <item>单列显示的</item>
         <item />
-        <item>双列显示的</item>
+        <item>Anime, movies, films, documentaries……</item>
+        <item />
+        <item />
+        <item>Such as Power-up Exclusive</item>
+        <item>Single Column</item>
+        <item />
+        <item>Double Column</item>
     </string-array>
     <string-array name="biliroaming_dynamic_type_entries">
-        <item>转发</item>
-        <item>投稿视频</item>
-        <item>番剧、电影等</item>
-        <item>付费内容 1</item>
-        <item>付费内容 2</item>
-        <item>折叠</item>
-        <item>文字</item>
-        <item>图文</item>
-        <item>文章</item>
-        <item>音频</item>
-        <item>通用 方形</item>
-        <item>通用 竖形</item>
-        <item>直播</item>
-        <item>播放列表</item>
+        <item>Share</item>
+        <item>Uploaded Videos</item>
+        <item>Anime, Film etc.</item>
+        <item>Paid Video 1</item>
+        <item>Paid Video 2</item>
+        <item>Folded</item>
+        <item>Text</item>
+        <item>Image Post</item>
+        <item>Article</item>
+        <item>Audio</item>
+        <item>Generic Square</item>
+        <item>Generic Vertical</item>
+        <item>Live</item>
+        <item>Playlist</item>
         <item>AD</item>
-        <item>小程序</item>
-        <item>订阅</item>
-        <item>新订阅</item>
-        <item>直播推荐</item>
-        <item>横幅</item>
-        <item>合集</item>
-        <item>故事</item>
-        <item>话题推荐</item>
-        <item>付费更新</item>
-        <item>话题集合</item>
-        <item>通知</item>
+        <item>Mini Program</item>
+        <item>Subscribe</item>
+        <item>New Subscription</item>
+        <item>Live Recommendations</item>
+        <item>Banner</item>
+        <item>Series</item>
+        <item>Story</item>
+        <item>Topic recommendations</item>
+        <item>Paid Updates</item>
+        <item>Topic Series</item>
+        <item>Notification</item>
     </string-array>
     <string-array name="biliroaming_dynamic_type_summaries">
         <item />
@@ -146,7 +146,7 @@
         <item />
         <item />
         <item />
-        <item>你可能感兴趣的UP主</item>
+        <item>Creators You May Like</item>
         <item />
         <item />
         <item />
@@ -155,31 +155,31 @@
         <item />
     </string-array>
     <string-array name="biliroaming_space_entries">
-        <item>分页：主页</item>
-        <item>分页：动态</item>
-        <item>分页：投稿</item>
-        <item>分页：商品</item>
-        <item>分页：追番</item>
-        <item>分页：课堂</item>
-        <item>直播</item>
-        <item>充电</item>
-        <item>大航海</item>
-        <item>推广橱窗</item>
-        <item>视频</item>
-        <item>专栏</item>
-        <item>音频</item>
-        <item>最近追番</item>
-        <item>最近投币</item>
-        <item>最近点赞</item>
-        <item>最近追漫</item>
-        <item>玩的游戏</item>
-        <item>课堂</item>
-        <item>粉丝装扮</item>
-        <item>收藏夹</item>
-        <item>漫画</item>
-        <item>合集</item>
-        <item>数字藏品展现</item>
-        <item>NFT头像</item>
+        <item>Page: Home</item>
+        <item>Page: Posts</item>
+        <item>Page: Uploads</item>
+        <item>Page: Shop</item>
+        <item>Page: Followed Anime</item>
+        <item>Page: Classroom</item>
+        <item>Live</item>
+        <item>Power Up</item>
+        <item>Voyage</item>
+        <item>Promote Showcase</item>
+        <item>Video</item>
+        <item>Articles</item>
+        <item>Audio</item>
+        <item>Followed Anime</item>
+        <item>Recently coin-supported videos</item>
+        <item>Recently liked videos</item>
+        <item>Manga Following</item>
+        <item>Games</item>
+        <item>Courses</item>
+        <item>Fan Badge</item>
+        <item>Favorites</item>
+        <item>Comics</item>
+        <item>Series</item>
+        <item>Digital Collectible</item>
+        <item>NFT Avatar</item>
     </string-array>
     <string-array name="biliroaming_upos_entries">
         <item>Don't replace</item>
@@ -205,84 +205,84 @@
         <item>hk_bcache (Bilibili Global)</item>
     </string-array>
     <string-array name="biliroaming_search_type_entries">
-        <item>热搜横幅</item>
-        <item>投稿视频</item>
-        <item>相关搜索</item>
+        <item>Trending Searches</item>
+        <item>Uploaded Videos</item>
+        <item>Related Serch</item>
         <item>Games</item>
         <item>UP</item>
         <item>AD</item>
-        <item>漫画</item>
-        <item>频道</item>
-        <item>番剧</item>
-        <item>话题</item>
-        <item>合集</item>
-        <item>专栏</item>
-        <item>动态</item>
-        <item>直播</item>
-        <item>课堂</item>
+        <item>Comics</item>
+        <item>Channels</item>
+        <item>Anime</item>
+        <item>Topic</item>
+        <item>Series</item>
+        <item>Article</item>
+        <item>Post</item>
+        <item>Live</item>
+        <item>Course</item>
     </string-array>
     <string-array name="biliroaming_block_follow_button_entries">
-        <item>评论</item>
-        <item>动态</item>
-        <item>全屏播放器</item>
+        <item>Comment</item>
+        <item>Post</item>
+        <item>Full Screen Player</item>
     </string-array>
     <string-array name="biliroaming_filter_story_entries">
-        <item>广告</item>
-        <item>直播</item>
-        <item>课堂</item>
-        <item>游戏</item>
-        <item>充电专属（未充电）</item>
+        <item>AD</item>
+        <item>Live</item>
+        <item>Course</item>
+        <item>Game</item>
+        <item>Power-up Exclusive (Not power-up yet)</item>
     </string-array>
     <string-array name="block_modules_exception_entries">
-        <item>发布动态</item>
+        <item>Post Moment</item>
     </string-array>
     <string-array name="biliroaming_player_version_entries">
-        <item>默认</item>
-        <item>旧版</item>
-        <item>新版</item>
+        <item>Default</item>
+        <item>Old Version</item>
+        <item>New Version</item>
     </string-array>
     <string-array name="biliroaming_player_version_summaries">
         <item />
-        <item>较高版本上由于缺少官方维护，可能存在问题，不建议使用</item>
+        <item>Due to the lack of official maintenance, there may be problems with higher versions, so it is not recommended to use</item>
         <item />
     </string-array>
     <string-array name="biliroaming_display_size_entries">
-        <item>更小</item>
-        <item>较小</item>
-        <item>小</item>
-        <item>默认</item>
-        <item>大</item>
-        <item>较大</item>
-        <item>更大</item>
+        <item>XX Small</item>
+        <item>X Small</item>
+        <item>Small</item>
+        <item>Defalt</item>
+        <item>Large</item>
+        <item>X Large</item>
+        <item>XX Large</item>
     </string-array>
     <string-array name="biliroaming_subtitle_translate_server_entries">
-        <item>微软</item>
-        <item>谷歌</item>
+        <item>Microsoft</item>
+        <item>Google</item>
     </string-array>
     <string-array name="biliroaming_story_ui_style_entries">
-        <item>默认</item>
-        <item>样式1</item>
-        <item>样式2</item>
-        <item>样式3</item>
+        <item>Default</item>
+        <item>Style 1</item>
+        <item>Style 2</item>
+        <item>Style 3</item>
     </string-array>
     <string-array name="biliroaming_story_ui_style_summaries">
         <item />
-        <item>操作按钮在右侧，左滑展示UP主投稿视频</item>
-        <item>操作按钮在底部，左滑展示UP主投稿视频</item>
-        <item>操作按钮在底部，左滑展示评论</item>
+        <item>Button on the right, swipe left to display uploaded videos</item>
+        <item>Button on the bottom, swipe left to display uploaded videos</item>
+        <item>Button on the bottom, swipe left to display comments</item>
     </string-array>
     <string-array name="biliroaming_pegasus_cover_ratio_entries">
-        <item>默认</item>
+        <item>Default</item>
         <item>16:9</item>
         <item>4:3</item>
     </string-array>
     <string-array name="biliroaming_video_popup_entries">
-        <item>投票弹幕</item>
-        <item>三连关注弹幕</item>
-        <item>评分弹幕</item>
-        <item>评分总结弹幕</item>
-        <item>关联视频弹幕</item>
-        <item>其它</item>
+        <item>Voting</item>
+        <item>Liked & Follow</item>
+        <item>Rating</item>
+        <item>Rating Summary</item>
+        <item>Relevance Video</item>
+        <item>Others</item>
     </string-array>
     <string-array name="biliroaming_video_popup_summaries">
         <item />
@@ -290,16 +290,16 @@
         <item />
         <item />
         <item />
-        <item>云视听小电视、免流引导、投资UP主、跳转应用等</item>
+        <item>Bilibili TV, free data, invest UP, redirect apps etc.</item>
     </string-array>
     <string-array name="biliroaming_purify_search_type_entries">
-        <item>默认关键词</item>
-        <item>热搜</item>
-        <item>发现</item>
+        <item>Default Keyword</item>
+        <item>Trending Searches</item>
+        <item>Discover</item>
     </string-array>
     <string-array name="biliroaming_prefer_bottom_tab_entries">
-        <item>首页</item>
-        <item>动态</item>
-        <item>我的</item>
+        <item>Home</item>
+        <item>Following</item>
+        <item>Me</item>
     </string-array>
 </resources>
