@@ -11,8 +11,8 @@
         <item>1080P 高碼率</item>
         <item>1080P 高清</item>
         <item>720P 60幀</item>
-        <item>720P 高清</item>
-        <item>480P 清晰</item>
+        <item>720P 准高清</item>
+        <item>480P 標清</item>
         <item>360P 流暢</item>
         <item>240P 極速</item>
     </string-array>
@@ -27,8 +27,8 @@
         <item>1080P 高碼率</item>
         <item>1080P 高清</item>
         <item>720P 60幀</item>
-        <item>720P 高清</item>
-        <item>480P 清晰</item>
+        <item>720P 准高清</item>
+        <item>480P 標清</item>
         <item>360P 流暢</item>
         <item>240P 極速</item>
     </string-array>
